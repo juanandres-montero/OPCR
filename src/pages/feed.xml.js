@@ -15,6 +15,6 @@ export async function GET(context) {
       link: `/blog/${post.slug}/`,
     })),
     customData: '<language>es-cr</language>',
-    canonicalUrl: 'https://juanandres-montero.github.io/OPCR',
+    canonicalUrl: 'https://juanandres-montero.github.io/opcr/',
   });
 }
