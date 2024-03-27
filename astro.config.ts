@@ -7,7 +7,7 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   // used to generate images
   site: 'https://juanandres-montero.github.io',
-  base: 'OPCR'
+  base: 'OPCR',
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({
     injectReset: true
