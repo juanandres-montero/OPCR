@@ -30,7 +30,7 @@ Intersección Taras – Intersección la Lima (Cubierto por otro proyecto ya en 
 
 ![Esta es una imagen de ejemplo](https://www.cnc.go.cr/images/2020/08/24/Ubicacin-Proyecto-San-Jos---Cartago.png)
 
-## Documentos relacionados
+## Documentos relacionados 
 
 |Título|Fecha|
 |--------|--------|
