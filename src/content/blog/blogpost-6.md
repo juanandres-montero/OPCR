@@ -1,47 +1,43 @@
 ---
-title: Blogpost 6
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-pubDate: 2023-02-21 00:13
-author: Elian Van Cutsem
+title: Corredor Vial San José - Cartago
+description: 
+  Plazo de la Concesión 25 años (según la postulación del proyecto)
+  Costo El monto estimado del proyecto es de US$ 487.460.051,00 (según la postulación del proyecto)
+  Proponente Constructora MECO Sociedad Anónima
+  Situación Actual Iniciativa rechazada (Firmeza Sesión Ordinaria No.009-2023, del 27 de abril de 2023”)
+pubDate: 2023-04-27 00:13
+author: Juan Andrés Montero
 tags:
-  - TypeScript
-  - Astro
-  - Web Development
-imgUrl: '../../assets/astro.jpeg'
+  - San José
+  - Cartago
+  - Rechazada
+imgUrl: '../../assets/Florencio-del-Castillo-scaled.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
-## Deorum petiit ignis
+# Información del proyecto
+## Descripción
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+El proyecto abarca el diseño, la construcción y la operación, dentro del modelo contractual de Concesión de Obra Pública con Servicios Públicos, de un futuro corrdor vial comprendido entre Cartago y San José cuya ruta primaria es la Actual Autopista Florencia del Castillo, al cual se le adicionaron varias obras complementarias.
 
-## Iovis late orbem Perseus sunt
+Posterior a la Resolución Complementaria a la Resolución JD-002-2021 considera los siguientes tramos:
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Tramo N°2: Rotonda de las Garantías Sociales – Intersección Hacienda Vieja
+Tramo N°3: Intersección Hacienda Vieja – Intersección Taras (Cartago)
+Intersección Taras – Intersección la Lima (Cubierto por otro proyecto ya en curso, este tramo queda excluido en cuanto al diseño y construcción del mismo, solo incluye mantenimiento y operación).
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+## Ubicación
 
-## Longum minus sic saepe
+![Esta es una imagen de ejemplo](https://www.cnc.go.cr/images/2020/08/24/Ubicacin-Proyecto-San-Jos---Cartago.png)
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+## Documentos relacionados
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+|Título|Fecha|
+|--------|--------|
+|    [Acuerdo 3.4-firmado-sellado](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/742/Acuerdo-34-firmado-sellado.pdf)    |    2022-08-03    |
+|    [Resolución 002-2021 (RESOLUCIÓN COMPLEMENTARIA A LA RESJDCNC-002-2019)](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/735/Resolucion-002-2021-RESOLUCION-COMPLEMENTARIA-A-LA-RESJDCNC-002-2019.pdf)    |    	2022-03-04    |
+|    [NOTIFICACIÓN Resolución 002-2021 (Complementaria a la RES 002-2019)-firmado-sellado](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/734/NOTIFICACION-Resolucion-002-2021-Complementaria-a-la-RES-002-2019-firmado-sellado.pdf)    |    	2022-03-04    |
+|    [Notificación y Resolución RESJDCNC-002-2019 Proyecto de Iniciativa Privada Corredor Vial San José Cartago](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/538/Notificacion-y-Resolucion-RESJDCNC-002-2019-Proyecto-de-Iniciativa-Privada-Corredor-Vial-San-Jose-Cartago.pdf)    |    		2021-08-03    |
+|    [ADDENDUM N°1 Resolución RES-JDCNC-002-2020 a la Resolución Inicial N° RES-JDCNC-002-2019 Corredor Vial San José - Cartago. MECO, S.A.](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/255/ADDENDUM-N1-Resolucion-RES-JDCNC-002-2020-a-la-Resolucion-Inicial-N-RES-JDCNC-002-2019-Corredor-Vial-San-Jose---Cartago-MECO-SA.pdf)    |    	2020-07-24    |
+|    [ ADENDA N°2 RES-JDCNC-005-2020 a la RESOLUCION RES-JDCNC-002-2019 Corredor Vial San José - Cartago. MECO, S.A.](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/254/ADENDA-N2-RES-JDCNC-005-2020-a-la-RESOLUCION-RES-JDCNC-002-2019-Corredor--Vial--San-Jose---Cartago-MECO-SA.pdf)    |    		2020-07-24    |
+|    [ Diario Oficial La Gaceta #213 08-11-2019 Publicación de Resolución Inicial RES-JDCNC-002-2019 Corredor Vial San José -Cartago. MECO, S.A.](https://www.cnc.go.cr/archivos/102/Corredor-Vial-San-SJ-Cartago/253/Diario-Oficial-La-Gaceta-213-08-11-2019-Publicacion-de-Resolucion-Inicial-RES-JDCNC-002-2019-Corredor-Vial-San-Jose--Cartago-MECO-SA.pdf)    |    		2020-07-24    |
