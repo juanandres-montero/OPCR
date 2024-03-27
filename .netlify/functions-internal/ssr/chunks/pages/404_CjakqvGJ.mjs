@@ -1168,7 +1168,7 @@ createCollectionToGlobResultMap({
 });
 
 let lookupMap = {};
-lookupMap = {"blog":{"type":"content","entries":{"blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-2":"/src/content/blog/blogpost-2.md","blogpost-3":"/src/content/blog/blogpost-3.md","blogpost-4":"/src/content/blog/blogpost-4.md","blogpost-6":"/src/content/blog/blogpost-6.md","blogpost-5":"/src/content/blog/blogpost-5.md"}}};
+lookupMap = {"blog":{"type":"content","entries":{"blogpost-2":"/src/content/blog/blogpost-2.md","blogpost-1":"/src/content/blog/blogpost-1.md","blogpost-3":"/src/content/blog/blogpost-3.md","blogpost-4":"/src/content/blog/blogpost-4.md","blogpost-5":"/src/content/blog/blogpost-5.md","blogpost-6":"/src/content/blog/blogpost-6.md"}}};
 
 function createGlobLookup(glob) {
 	return async (collection, lookupId) => {
@@ -1179,7 +1179,7 @@ function createGlobLookup(glob) {
 	};
 }
 
-const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_DxmY7qxp.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_CUgKVJyb.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_Cr0HzKzR.mjs'),"/src/content/blog/blogpost-4.md": () => import('../blogpost-4_ok1PIuI_.mjs'),"/src/content/blog/blogpost-5.md": () => import('../blogpost-5_BA6xdWOz.mjs'),"/src/content/blog/blogpost-6.md": () => import('../blogpost-6_D05CSOL8.mjs')});
+const renderEntryGlob = /* #__PURE__ */ Object.assign({"/src/content/blog/blogpost-1.md": () => import('../blogpost-1_Bzf2-p6V.mjs'),"/src/content/blog/blogpost-2.md": () => import('../blogpost-2_B8WW1qlr.mjs'),"/src/content/blog/blogpost-3.md": () => import('../blogpost-3_COeoWerV.mjs'),"/src/content/blog/blogpost-4.md": () => import('../blogpost-4_BxlM19Rm.mjs'),"/src/content/blog/blogpost-5.md": () => import('../blogpost-5_BfJnjtwg.mjs'),"/src/content/blog/blogpost-6.md": () => import('../blogpost-6_CxwSJnhb.mjs')});
 const collectionToRenderEntryMap = createCollectionToGlobResultMap({
 	globResult: renderEntryGlob,
 	contentDir,

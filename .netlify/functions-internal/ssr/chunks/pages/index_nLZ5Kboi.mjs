@@ -1,7 +1,7 @@
 /* empty css                           */
 import { e as createAstro, f as createComponent, r as renderTemplate, n as renderComponent, m as maybeRenderHead, h as addAttribute } from '../astro_COMPlC6x.mjs';
 import 'kleur/colors';
-import { g as getCollection, a as $$BlogList, b as $$Default, d as $$Card, $ as $$Button, e as $$Pill, f as $$RecentBlogPosts } from './404_Cj-01DDb.mjs';
+import { g as getCollection, a as $$BlogList, b as $$Default, d as $$Card, $ as $$Button, e as $$Pill, f as $$RecentBlogPosts } from './404_CjakqvGJ.mjs';
 import 'clsx';
 
 const $$Astro$2 = createAstro("https://localhost:3000/");

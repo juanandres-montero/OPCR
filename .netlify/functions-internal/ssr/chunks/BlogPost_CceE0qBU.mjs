@@ -1,6 +1,6 @@
 import { e as createAstro, f as createComponent, r as renderTemplate, m as maybeRenderHead, h as addAttribute, p as renderSlot, n as renderComponent } from './astro_COMPlC6x.mjs';
 import 'kleur/colors';
-import { f as $$RecentBlogPosts, b as $$Default } from './pages/404_Cj-01DDb.mjs';
+import { f as $$RecentBlogPosts, b as $$Default } from './pages/404_CjakqvGJ.mjs';
 import 'clsx';
 
 const $$Astro$2 = createAstro("https://localhost:3000/");

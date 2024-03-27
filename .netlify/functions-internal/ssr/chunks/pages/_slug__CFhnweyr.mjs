@@ -1,5 +1,5 @@
 import { Resvg } from '@resvg/resvg-js';
-import { g as getCollection } from './404_Cj-01DDb.mjs';
+import { g as getCollection } from './404_CjakqvGJ.mjs';
 import satori from 'satori';
 import { html } from 'satori-html';
 
