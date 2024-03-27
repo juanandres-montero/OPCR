@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve Brutal
 title: ''
 labels: bug
-assignees: ElianCodes
+assignees: juanandres-montero
 
 ---
 

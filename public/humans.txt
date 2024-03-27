@@ -1,6 +1,5 @@
-## Brutal Theme ##
+## OPCR ##
+All Content by Juan Andrés Montero
 
-All development & Content by Elian Van Cutsem
-
-- email: hello@elian.codes
-- website: www.elian.codes
+- email: juanandres-montero@outlook.com
+- website: https://juanandres-montero.github.io/
