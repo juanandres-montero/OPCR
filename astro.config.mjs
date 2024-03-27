@@ -1,10 +1,16 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
+import netlify from "@astrojs/netlify";
 
 export default defineConfig({
   // used to generate images
-  site: 'https://juanandres-montero.github.io',
+  site:
+    process.env.VERCEL_ENV === 'production'
+      ? 'https://juanandres-montero.github.io'
+      : process.env.VERCEL_URL
+      ? `https://${process.env.VERCEL_URL}/`
+      : 'https://localhost:3000/',
   base: 'OPCR',
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({ injectReset: true })],
@@ -14,4 +20,5 @@ export default defineConfig({
     },
   },
   output: "server",
+  adapter: netlify()
 });
