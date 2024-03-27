@@ -6,7 +6,8 @@ import netlify from "@astrojs/netlify";
 // https://astro.build/config
 export default defineConfig({
   // used to generate images
-  site: process.env.VERCEL_ENV === 'production' ? 'https://example.com' : process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}/` : 'https://localhost:3000/',
+  site: 'https://juanandres-montero.github.io',
+  base: 'OPCR'
   trailingSlash: 'ignore',
   integrations: [sitemap(), UnoCSS({
     injectReset: true
