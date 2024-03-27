@@ -14,7 +14,7 @@ export async function GET(context) {
       description: post.data.description,
       link: `/blog/${post.slug}/`,
     })),
-    customData: '<language>en-us</language>',
-    canonicalUrl: 'https://brutal.elian.codes',
+    customData: '<language>es-cr</language>',
+    canonicalUrl: 'https://juanandres-montero.github.io/OPCR',
   });
 }
