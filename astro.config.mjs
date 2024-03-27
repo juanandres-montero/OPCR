@@ -1,15 +1,24 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
+import node from "@astrojs/node";
 
+// https://astro.build/config
 export default defineConfig({
   // used to generate images
-  site: 'https://juanandres-montero.github.io',
+  site: process.env.VERCEL_ENV === 'production' ? 'https://juanandres-montero.github.io' : process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}/` : 'https://localhost:3000/',
   base: 'OPCR',
-  integrations: [sitemap(), UnoCSS({ injectReset: true })],
+  trailingSlash: 'ignore',
+  integrations: [sitemap(), UnoCSS({
+    injectReset: true
+  })],
   vite: {
     optimizeDeps: {
-      exclude: ['@resvg/resvg-js'],
-    },
+      exclude: ['@resvg/resvg-js']
+    }
   },
+  output: "server",
+  adapter: node({
+    mode: "standalone"
+  })
 });

@@ -3,7 +3,8 @@ import { join } from "node:path";
 import { AstroFont } from "astro-font";
 
 const appDir = process.cwd();
-const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name);
+const baseDir = "OPCR"; // Directorio base 
+const getFontPath = (name: string) => join(appDir, baseDir, "public", "fonts", name);
 ---
 
 <AstroFont
@@ -16,7 +17,7 @@ const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name
       src: [
         {
           style: "normal",
-          path: './public/fonts/outfit.ttf',
+          path: getFontPath("outfit.ttf"), // Ruta corregida
         },
       ],
     },
@@ -29,7 +30,7 @@ const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name
         {
           preload: false,
           style: "normal",
-          path: getFontPath("poppins.ttf"),
+          path: getFontPath("poppins.ttf")
         },
       ],
     },
@@ -42,7 +43,7 @@ const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name
         {
           preload: false,
           style: "normal",
-          path: getFontPath("righteous.ttf"),
+          path: getFontPath("righteous.ttf")
         },
       ],
     },
@@ -55,7 +56,7 @@ const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name
         {
           preload: false,
           style: "normal",
-          path: getFontPath("sanchez.ttf"),
+          path: getFontPath("sanchez.ttf")
         },
       ],
     },
@@ -68,7 +69,7 @@ const getFontPath = (name: string) => join(appDir,"OPCR","public", "fonts", name
         {
           preload: false,
           style: "normal",
-          path: getFontPath("dm-serif.ttf"),
+          path: getFontPath("dm-serif.ttf")
         },
       ],
     },
