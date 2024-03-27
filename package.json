@@ -5,11 +5,11 @@
   "type": "module",
   "packageManager": "pnpm@8.6.0",
   "author": {
-    "name": "Elian Van Cutsem",
-    "email": "hello@elian.codes",
-    "url": "https://www.elian.codes/"
+    "name": "Juan Andrés Montero",
+    "email": "juanandres-montero@oulook.com",
+    "url": "https://juanandres-montero.github.io/"
   },
-  "homepage": "https://brutal.elian.codes",
+  "homepage": "https://juanandres-montero.github.io/opcr/",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.5",
-    "@astrojs/sitemap": "^3.1.1",
+    "@astrojs/sitemap": "^3.1.2",
     "@eliancodes/brutal-ui": "^0.2.3",
     "@unocss/astro": "^0.57.7",
     "astro": "^4.5.10",
