@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import UnoCSS from 'unocss/astro';
-import netlify from "@astrojs/netlify";
+import node from "@astrojs/node";
 
 export default defineConfig({
   // used to generate images
@@ -20,5 +20,7 @@ export default defineConfig({
     },
   },
   output: "server",
-  adapter: netlify()
+  adapter: node({
+    mode: "standalone"
+  })
 });

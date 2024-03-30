@@ -13,13 +13,14 @@ const height = 630;
 const width = 1200;
 
 const posts = await getCollection('blog');
-
+export const prerender = true;
 export function getStaticPaths() {
   return posts.map((post) => ({
     params: { slug: post.slug },
     props: { title: post.data.title, description: post.data.description },
   }));
 }
+
 
 export const GET: APIRoute = async ({ params, props }) => {
   const title = props.title.trim() ?? 'Blogpost';

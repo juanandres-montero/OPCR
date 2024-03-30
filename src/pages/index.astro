@@ -35,14 +35,14 @@ const builtWith = [
       <div class='col-span-4'>
         <Card>
           <div class='flex flex-col justify-between items-start gap-4' >
-            <p class='mt-4 outfit text-2xl md:text-5xl lg:text-7xl'>
+            <p class='mt-4 text-2xl md:text-5xl lg:text-7xl' style="font-family:outfit">
               Obras Públicas de <a
                 class='text-white'
                 target='_blank'
                 href='https://astro.build/'>Costa Rica</a
               >
             </p>
-            <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
+            <p class='mt-2 text-xl md:text-3xl lg:text-5xl' style="font-family:outfit">
               Un minimalista registro de todas las obras públicas de Costa Rica.
             </p>
             <Button target={'_self'} href='/OPCR/blog/'>
@@ -53,7 +53,7 @@ const builtWith = [
       </div>
       <div class='col-span-2'>
         <Card>
-          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif'>
+          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8' style="font-family:dm-serif">
             OPCR es construido con:
           </h2>
           <ul class='flex gap-4 flex-wrap'>
@@ -62,7 +62,7 @@ const builtWith = [
                 <li>
                   <Pill>
                     <a
-                      class='sanchez'
+                      style="font-family:sanchez"
                       href={item.url}
                       target='_blank'
                       title={`Ir a ${item.name}`}
@@ -78,12 +78,12 @@ const builtWith = [
       </div>
       <div class='col-span-2'>
         <Card>
-          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4 dm-serif'>
+          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4' style="font-family:dm-serif">
             ¿Qué es OPCR?
           </h2>
-          <p class='poppins'>
+          <p style="font-family:poppins">
             OPCR es una página web creada por <a
-            href='https://juanandres-montero.github.io'>Juan Andrés</a
+            href='https://juanandres-montero.github.io'><span class='text-purple-500'>Juan Andrés</span></a
             >, que tiene como objetivo registrar todas las obras públicas de Costa Rica como base de datos. De esta manera puede proveer información a la ciudadanía sobre las obras que se están realizando en el país.
           </p>
         </Card>

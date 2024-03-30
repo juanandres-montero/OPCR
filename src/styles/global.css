@@ -120,3 +120,41 @@ html {
   background-color: aliceblue;
 }
 
+@font-face {
+  font-family: "Righteous";
+  src: url("/public/fonts/righteous.ttf") format("truetype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'dm-serif';
+  font-style: normal;
+  src: url("/public/fonts/dm-serif.ttf") format("truetype");
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "outfit";
+  src: url("/public/fonts/outfit.ttf") format("truetype");
+
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "poppins";
+  src: url("/public/fonts/poppins.ttf") format("truetype");
+
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "sanchez";
+  src: url("/public/fonts/sanchez.ttf") format("truetype");
+  font-style: normal;
+  font-display: swap;
+}
+
