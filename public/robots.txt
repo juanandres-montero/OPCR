@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
-Host: https://juanandres-montero.github.io/opcr/
-Sitemap: https://juanandres-montero.github.io/opcr/sitemap-index.xml
+Host: https://brutal.elian.codes/
+Sitemap: https://brutal.elian.codes/sitemap-index.xml

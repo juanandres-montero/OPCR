@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help improve opcr
+about: Create a report to help improve Brutal
 title: ''
 labels: bug
-assignees: juanandres-montero
+assignees: ElianCodes
 
 ---
 
