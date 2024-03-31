@@ -13,8 +13,8 @@ description:
 pubDate: 2024-03-30 23:08
 author: Juan Andrés Montero
 tags:
-  - Liberia
-  - Guanacaste
+  - San José
+  - Caldera
   - En marcha
 imgUrl: '../../assets/DSC05687.jpg'
 layout: ../../layouts/BlogPost.astro
