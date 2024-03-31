@@ -50,7 +50,7 @@ Licda. Melissa Barrantes Leiva - Apoyo Administrativo UE-TCM
 
 APM Terminals
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4793.759968943244!2d-83.10396216942803!3d10.00498593108099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa71bdfdb74aec7%3A0x5645de63058bd672!2sTerminal%20APM%20Mo%C3%ADn!5e1!3m2!1ses-419!2sus!4v1711859637460!5m2!1ses-419!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4793.759968943244!2d-83.10396216942803!3d10.00498593108099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa71bdfdb74aec7%3A0x5645de63058bd672!2sTerminal%20APM%20Mo%C3%ADn!5e1!3m2!1ses-419!2sus!4v1711859637460!5m2!1ses-419!2sus" width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Documentos relacionados 
 
@@ -64,4 +64,4 @@ APM Terminals
 |    [Orden de Inicio TCM](https://www.cnc.go.cr/archivos/85/TCM/76/Orden-de-Inicio-TCM.pdf)    |    		2017-01-19    |
 |    [Cartel de licitación TCM](https://www.cnc.go.cr/archivos/85/TCM/67/Cartel-de-licitacion-TCM.pdf)    |    	2017-01-18    |
 
-<iframe width="600" height="450" src="https://www.youtube.com/embed/KLBTXA0vapM" title="Presentación TCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="300" height="225" src="https://www.youtube.com/embed/KLBTXA0vapM" title="Presentación TCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
