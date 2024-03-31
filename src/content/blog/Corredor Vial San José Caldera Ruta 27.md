@@ -16,7 +16,7 @@ tags:
   - San José
   - Caldera
   - En marcha
-imgUrl: '../../assets/DSC05687.jpg'
+imgUrl: '../../assets/1 junio.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
