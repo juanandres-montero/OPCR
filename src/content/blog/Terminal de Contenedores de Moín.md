@@ -15,7 +15,7 @@ tags:
   - Moín
   - Limón
   - En marcha
-imgUrl: '../../assets/1 junio.jpg'
+imgUrl: '../../assets/apm-terminals-moin-2022.jpg'
 layout: ../../layouts/BlogPost.astro
 ---
 
