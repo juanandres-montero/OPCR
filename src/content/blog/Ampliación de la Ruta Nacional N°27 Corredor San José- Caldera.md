@@ -27,6 +27,6 @@ explotación.
 
 Ruta Nacional N° 23 Caldera-Barranca. El Proyecto contempla la intervención de 11.40 kilómetros de vía, iniciando en el PK 76+605 de la Autopista Ruta 27 (San José – Caldera), en el final de ésta en su la llegada a la playa de Caldera, y transcurre hacia el norte hasta conectar con la Ruta 1 en el Enlace de Barranca.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4794.188341639861!2d-84.74231992419807!3d9.97592207344697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa031a3085c1de7%3A0x43a8b852f303c69c!2sRuta%20Nacional%20Primaria%2023%2C%20Provincia%20de%20Puntarenas%2C%20Chacarita%2C%20Costa%20Rica!5e1!3m2!1ses-419!2sus!4v1711857202969!5m2!1ses-419!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4794.188341639861!2d-84.74231992419807!3d9.97592207344697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa031a3085c1de7%3A0x43a8b852f303c69c!2sRuta%20Nacional%20Primaria%2023%2C%20Provincia%20de%20Puntarenas%2C%20Chacarita%2C%20Costa%20Rica!5e1!3m2!1ses-419!2sus!4v1711857202969!5m2!1ses-419!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Documentos relacionados 
