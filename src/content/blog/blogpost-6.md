@@ -18,7 +18,7 @@ layout: ../../layouts/BlogPost.astro
 # Información del proyecto
 ## Descripción
 
-El proyecto abarca el diseño, la construcción y la operación, dentro del modelo contractual de Concesión de Obra Pública con Servicios Públicos, de un futuro corrdor vial comprendido entre Cartago y San José cuya ruta primaria es la Actual Autopista Florencia del Castillo, al cual se le adicionaron varias obras complementarias.
+El proyecto abarca el diseño, la construcción y la operación, dentro del modelo contractual de Concesión de Obra Pública con Servicios Públicos, de un futuro corrdor vial comprendido entre Cartago y San José cuya ruta primaria es la Actual Autopista Florencia del Castillo, al cual se le adicionaron varias obras complementarias. 
 
 Posterior a la Resolución Complementaria a la Resolución JD-002-2021 considera los siguientes tramos:
 
