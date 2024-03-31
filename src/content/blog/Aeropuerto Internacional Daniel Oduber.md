@@ -8,7 +8,7 @@ description:
   Costo US$ 35.000.000,00
   Concesionario CORIPORT
   Situación Actual Explotación
-pubDate: 2024-03-30 22:41
+pubDate: 2024-03-30 23:08
 author: Juan Andrés Montero
 tags:
   - Liberia
