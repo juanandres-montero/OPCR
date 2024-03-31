@@ -54,6 +54,11 @@ jobs:
             echo "Unable to determine package manager"
             exit 1
           fi
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: pnpm
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
