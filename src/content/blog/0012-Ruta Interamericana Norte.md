@@ -33,5 +33,3 @@ Las reparaciones urgentes en la Ruta Interamericana Norte, entre San Ramón y Es
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d76691.65284868682!2d-84.60931739064151!3d10.040942124871398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x8fa036e05f9e6025%3A0xa29124e569265597!2sPuntarenas%20Province%2C%20Esparza!3m2!1d9.9906919!2d-84.667374!4m5!1s0x8fa044e377d3afdb%3A0x25fec024d645683a!2sAlajuela%20Province%2C%20San%20Ramon!3m2!1d10.091028399999999!2d-84.4703933!5e1!3m2!1sen!2scr!4v1712270728755!5m2!1sen!2scr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://widgets.commoninja.com/iframe/a3b65110-9f7d-46b8-b3f6-7ad4c97dd2e7" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>
-
-<iframe width="100%" height="300" src="https://www.facebook.com/701df447-4eb5-4fb2-9800-09b05b977c33" title="Presentación TCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
